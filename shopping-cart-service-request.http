@@ -1,0 +1,5 @@
+### Добавить продукты в корзину
+GET http://localhost:8080/store/order/add?id=1,2,6
+
+### Получить список id корзины
+GET http://localhost:8080/store/order/get
