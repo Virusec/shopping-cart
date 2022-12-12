@@ -1,6 +1,6 @@
 package com.example.shoppingcart.record;
 
-public class ShoppingCartRecord {
+public class ShoppingCartRequest {
     private int id;
 
     public int getId() {
